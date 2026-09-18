@@ -1,12 +1,12 @@
-# 🍕 PizzaShop
+# 🍕 Pizza Shop
 
 A cozy little project for managing a pizza shop backend, built with a modern stack and designed to grow into a full restaurant platform.
 
 > ⚠️ Work in progress: this repository currently contains the backend implementation only. The frontend is coming soon.
 
-## What is PizzaShop?
+## What is Pizza Shop?
 
-PizzaShop is a small, practical restaurant management experience focused on the operational side of a pizza business:
+Pizza Shop is a small, practical restaurant management experience focused on the operational side of a pizza business:
 
 - registering restaurants
 - authenticating staff through magic links
@@ -93,7 +93,7 @@ bun run db:seed
 
 ## 🌱 Roadmap
 
-PizzaShop is still growing, and the roadmap is very exciting:
+Pizza Shop is still growing, and the roadmap is very exciting:
 
 - [x] backend foundation
 - [x] authentication and restaurant flow
